@@ -1,2 +1,2 @@
-# calculator-react
-aula da Digital College - Criando uma calculadora
+Proposta de criação de uma calculadora.
+FS49 - Alex Bessa
