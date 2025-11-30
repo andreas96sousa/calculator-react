@@ -118,7 +118,7 @@ const App = () => {
         />
         <Botao
         style='button-2 bg-purple-200 text-sky-900'
-        text=','
+        text='.'
         setDigito={setDigito}
         />
         <Botao

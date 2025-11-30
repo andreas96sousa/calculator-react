@@ -19,8 +19,8 @@ const Botao = ({ style, text, setDigito }) => {
       if(previous === '0'){
         return text
       }
+      return previous + text
     })
-    return previous + text
   }
 
   return (
